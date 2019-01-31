@@ -12,12 +12,13 @@ $ php artisan vendor:publish --tag=laravel-admin-echarts
 ```
 ECharts::content('index') //index为视图文件，也将用于图标初始化的id值
 ```
-##有问题反馈
-在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
+## 有问题反馈
+ 在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
 
 * 邮件(747512353#qq.com, 把#换成@)
 * QQ: 747512353
-##兴趣菜鸟交流群
+
+## 兴趣菜鸟交流群
 * QQ群:296031123
 
 License

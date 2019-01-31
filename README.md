@@ -12,6 +12,7 @@ $ php artisan vendor:publish --tag=laravel-admin-echarts
 ```
 ECharts::content('index') //index为视图文件，也将用于图标初始化的id值
 ```
+插件的安装以及调试请看index插件模板文件，具体配置使用方法请查看echarts官方文档
 ## 有问题反馈
  在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
 

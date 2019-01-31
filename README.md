@@ -1,5 +1,6 @@
 laravel-admin-ext\Echarts图表
 ======
+![wx20180413-100502](http://cdn.taxworm.cn/TIM%E6%88%AA%E5%9B%BE20190131092038.png)
 ## Installation
 
 ```

@@ -12,3 +12,7 @@ $ php artisan vendor:publish --tag=laravel-admin-echarts
 ```
 ECharts::content('index') //index为视图文件，也将用于图标初始化的id值
 ```
+
+License
+------------
+Licensed under [The MIT License (MIT)](LICENSE).

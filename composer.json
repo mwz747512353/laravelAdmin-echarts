@@ -1,5 +1,5 @@
 {
-    "name": "mwz747512353/laravelAdmin-echarts",
+    "name": "mwz747512353/laravel-admin-echarts",
     "description": "基于laravel-admin的echarts图表",
     "type": "library",
     "keywords": ["laravel-admin", "图表","echarts"],

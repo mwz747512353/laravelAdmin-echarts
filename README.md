@@ -4,7 +4,7 @@ laravel-admin-ext\Echarts图表
 ## 安装
 
 ```
-$ composer require mwz747512353/laravelAdmin-echarts
+$ composer require mwz747512353/laravel-admin-echarts
 
 $ php artisan vendor:publish --tag=laravel-admin-echarts
 ```
